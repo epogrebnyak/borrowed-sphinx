@@ -10,6 +10,7 @@ Possible reasons:
 - default setup is complex (tweaking sys.path for discoverability, many options not of use)
 - two uses in one: rst source and api documentation, rst directives language + rst as markup 
 - you can just easilty get lost in the docs
+- [got to learn a lot before even starting](https://twitter.com/mistersql/status/1097238985792016384)
 - old project, many old design desisions and documentation
 
 This collection is aimed to make life easier when creating documentation.
