@@ -25,3 +25,7 @@ A collection of sphinx-doc examples
 
 - [flinx](https://github.com/osteele/flinx/blob/master/flinx/templates/conf.py.tpl) conf.py generator
 - [pyproject.toml - > conf.py](https://github.com/epogrebnyak/weo-reader/blob/master/make_conf.py)
+
+## Credit 
+
+Sphinx photo by [Max Simonov via Unsplash](https://unsplash.com/photos/fU4YA9w5taw)
