@@ -1,5 +1,19 @@
 # borrowed-sphinx
-A collection of sphinx-doc examples
+
+This is a collection of [sphinx-doc][sphinx-doc] setup examples. 
+
+[sphinx-doc]: https://www.sphinx-doc.org/en/master/
+
+sphinx is extemely powerful and versatile, but why using [sphinx-doc][sphinx-doc] is hard?
+Possible reasons:
+
+- default setup is complex (tweaking sys.path for discoverability, many options not of use)
+- two uses in one: rst source and api documentation, rst directives language + rst as markup 
+- you can just easilty get lost in the docs
+- old project, many old design desisions and documentation
+
+This collection is aimed to make life easier when creating documentation.
+
 
 ## Docs folders and conf.py examples:
 
