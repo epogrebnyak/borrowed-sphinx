@@ -1,20 +1,20 @@
-# borrowed-sphinx
-
-This is a collection of [sphinx-doc][sphinx-doc] setup examples. 
-
 [sphinx-doc]: https://www.sphinx-doc.org/en/master/
 
-sphinx is extemely powerful and versatile, but why using [sphinx-doc][sphinx-doc] is hard?
-Possible reasons:
+# 1. Minimal examples
 
-- default setup is complex (tweaking sys.path for discoverability, many options not of use)
-- two uses in one: rst source and api documentation, rst directives language + rst as markup 
-- you can just easilty get lost in the docs
-- [got to learn a lot before even starting](https://twitter.com/mistersql/status/1097238985792016384)
-- old project, many old design desisions and documentation
+Minimal example of Sphinx documentation setup:
 
-This collection is aimed to make life easier when creating documentation.
+- <https://gitlab.com/epogrebnyak/sphinx-minimal/-/tree/master/docs>
 
+Outputs:
+
+- <https://epogrebnyak.gitlab.io/sphinx-minimal>
+- <http://sphinx-minimal.s3-website.eu-central-1.amazonaws.com/>
+
+
+# 2. Collection 
+
+This is a collection of [sphinx-doc][sphinx-doc] setup examples. It is aimed to make life easier when creating documentation.
 
 ## Docs folders and conf.py examples:
 
@@ -40,6 +40,18 @@ This collection is aimed to make life easier when creating documentation.
 
 - [flinx](https://github.com/osteele/flinx/blob/master/flinx/templates/conf.py.tpl) conf.py generator
 - [pyproject.toml - > conf.py](https://github.com/epogrebnyak/weo-reader/blob/master/make_conf.py)
+
+
+## Comments
+
+sphinx is extemely powerful and versatile, but why using [sphinx-doc][sphinx-doc] is hard?
+Possible reasons:
+
+- default setup is complex (tweaking sys.path for discoverability, many options not of use)
+- two uses in one: rst source and api documentation, rst directives language + rst as markup 
+- you can just easilty get lost in the docs
+- [got to learn a lot before even starting](https://twitter.com/mistersql/status/1097238985792016384)
+- old project, many old design desisions and documentation
 
 ## Credit 
 
