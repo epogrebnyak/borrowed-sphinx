@@ -36,7 +36,12 @@
 
 ## [Minimal example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
 
-**conf.py.**
+```
+pip install sphinx sphinx_rtd_theme
+sphinx-build docs site
+```
+
+**docs/conf.py**
 
 ```python
 project = "Seemingly Simple Project"
@@ -46,7 +51,7 @@ extensions = ["sphinx_rtd_theme"]
 html_theme = "sphinx_rtd_theme"
 ```
 
-**index.rst**
+**docs/index.rst**
 
 ```rst
 Main page
