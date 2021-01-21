@@ -6,7 +6,7 @@
 <thead>
 <tr class="header">
 <th>Project</th>
-<th>docs folder</th>
+<th>Source folder</th>
 <th>conf.py</th>
 </tr>
 </thead>
