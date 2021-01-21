@@ -1,8 +1,8 @@
 # Source folders and conf.py examples for Sphinx documentation
 
-image::https://badgen.net/badge/examples/4/blue[]
+// image::https://badgen.net/badge/examples/4/blue[]
 
-[cols="<,^,^", options="header"]
+[cols="<.^,^.^,^.^", options="header"]
 |===
 
 | Project 
