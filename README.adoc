@@ -18,7 +18,7 @@ This is a collection of [sphinx-doc][sphinx-doc] setup examples. It is aimed to 
 
 ## Docs folders and conf.py examples:
 
-- Hypermodern Packaging:
+Hypermodern Packaging /
   - [docs](https://github.com/cjolowicz/cookiecutter-hypermodern-python/tree/master/%7B%7Bcookiecutter.project_name%7D%7D/docs)
   - [conf.py](https://github.com/cjolowicz/cookiecutter-hypermodern-python/blob/master/%7B%7Bcookiecutter.project_name%7D%7D/docs/conf.py)  
 - IASA message_ix:
