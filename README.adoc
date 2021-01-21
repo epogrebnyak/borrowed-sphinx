@@ -22,9 +22,11 @@ image::https://badgen.net/badge/example/mimimal/green[https://gitlab.com/epogreb
 | https://github.com/librosa/librosa/blob/main/docs/[docs]
 | https://github.com/librosa/librosa/blob/main/docs/conf.py[conf.py]
 
+|===  
 
-| minimal example
-| https://github.com/librosa/librosa/blob/main/docs/[docs]
+## Minimal example
+
+.conf.py
 | [source,python]
 ----
 require 'sinatra'
@@ -34,7 +36,15 @@ get '/hi' do
 end
 ----
 
-|===  
+.index.rst
+----
+
+Main page
+=========
+
+This is documentation.
+
+----
 
 
 ## Credit 
