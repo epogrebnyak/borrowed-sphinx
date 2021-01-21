@@ -3,10 +3,13 @@ image::https://badgen.net/badge/example/mimimal/green[https://gitlab.com/epogreb
 
 # Source folders and conf.py examples for Sphinx documentation
 
+[cols="^,<,>", options="header"]
 |===
-| Project | docs folder | conf.py
+| Project 
+| docs folder 
+| conf.py
 
-| Hypermodern Packaging 
+| Hypermodern Packaging
 | https://github.com/cjolowicz/cookiecutter-hypermodern-python/tree/master/%7B%7Bcookiecutter.project_name%7D%7D/docs[docs]
 | https://github.com/cjolowicz/cookiecutter-hypermodern-python/blob/master/%7B%7Bcookiecutter.project_name%7D%7D/docs/conf.py[conf.py]
 
