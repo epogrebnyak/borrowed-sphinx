@@ -1,7 +1,7 @@
 # Examples of Sphinx documentation
 
 - [Minimal example](#minimal) 
-- [Source and conf.py examples](#examples)
+- [Source and conf.py examples by project](#examples)
 
 
 <a id="minimal">
