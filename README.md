@@ -13,7 +13,7 @@ pip install sphinx sphinx_rtd_theme
 sphinx-build docs site
 ```
 
-**docs/conf.py**
+**docs/conf.py** (configuration)
 
 ```python
 project = "Seemingly Simple Project"
@@ -23,7 +23,7 @@ extensions = ["sphinx_rtd_theme"]
 html_theme = "sphinx_rtd_theme"
 ```
 
-**docs/index.rst**
+**docs/index.rst** (contents, "source")
 
 ```rst
 Main page
