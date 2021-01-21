@@ -11,22 +11,22 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p>Hypermodern Packaging</p></td>
 <td><p><a href="https://github.com/cjolowicz/cookiecutter-hypermodern-python/tree/master/%7B%7Bcookiecutter.project_name%7D%7D/docs">docs</a></p></td>
 <td><p><a href="https://github.com/cjolowicz/cookiecutter-hypermodern-python/blob/master/%7B%7Bcookiecutter.project_name%7D%7D/docs/conf.py">conf.py</a></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>IASA message_ix</p></td>
 <td><p><a href="https://github.com/iiasa/message_ix/tree/master/doc">docs</a></p></td>
 <td><p><a href="https://github.com/iiasa/message_ix/blob/master/doc/conf.py">conf.py</a></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p>pydata theme</p></td>
 <td><p><a href="https://github.com/pandas-dev/pydata-sphinx-theme/blob/master/docs/">docs</a></p></td>
 <td><p><a href="https://github.com/pandas-dev/pydata-sphinx-theme/blob/master/docs/conf.py">conf.py</a></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>librosa</p></td>
 <td><p><a href="https://github.com/librosa/librosa/blob/main/docs/">docs</a></p></td>
 <td><p><a href="https://github.com/librosa/librosa/blob/main/docs/conf.py">conf.py</a></p></td>
