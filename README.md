@@ -1,4 +1,4 @@
-# Examples of Sphinx documentation
+# Examples of [Sphinx](https://www.sphinx-doc.org/en/master/) documentation
 
 - [Minimal example](#minimal) 
 - [Source and conf.py examples by project](#examples)
@@ -6,7 +6,7 @@
 
 <a id="minimal">
   
-## [Minimal example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
+## [Minimal Sphinx example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
 
 ```
 pip install sphinx sphinx_rtd_theme
