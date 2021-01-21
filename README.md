@@ -8,7 +8,7 @@
   
 ## [Minimal Sphinx example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
 
-```
+```console
 pip install sphinx sphinx_rtd_theme
 sphinx-build docs site
 start site/index.html
