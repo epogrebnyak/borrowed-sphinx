@@ -5,6 +5,7 @@
 
 
 <a id="minimal">
+  
 ## [Minimal example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
 
 ```
@@ -32,6 +33,7 @@ This is documentation.
 ```
 
 <a id="examples">
+  
 ## Source folders and conf.py
 
 <table>
