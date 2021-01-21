@@ -1,5 +1,37 @@
-# Examples for Sphinx documentation
+# Examples of Sphinx documentation
 
+- [Minimal example](#minimal) 
+- [Source and conf.py examples](#examples)
+
+
+<a id="minimal">
+## [Minimal example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
+
+```
+pip install sphinx sphinx_rtd_theme
+sphinx-build docs site
+```
+
+**docs/conf.py**
+
+```python
+project = "Seemingly Simple Project"
+author = "I.M. Coder"
+copyright = f"2021, {author}"
+extensions = ["sphinx_rtd_theme"]
+html_theme = "sphinx_rtd_theme"
+```
+
+**docs/index.rst**
+
+```rst
+Main page
+=========
+
+This is documentation.
+```
+
+<a id="examples">
 ## Source folders and conf.py
 
 <table>
@@ -34,31 +66,6 @@
 </tbody>
 </table>
 
-## [Minimal example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
-
-```
-pip install sphinx sphinx_rtd_theme
-sphinx-build docs site
-```
-
-**docs/conf.py**
-
-```python
-project = "Seemingly Simple Project"
-author = "I.M. Coder"
-copyright = f"2021, {author}"
-extensions = ["sphinx_rtd_theme"]
-html_theme = "sphinx_rtd_theme"
-```
-
-**docs/index.rst**
-
-```rst
-Main page
-=========
-
-This is documentation.
-```
 
 ## Photo credit
 
