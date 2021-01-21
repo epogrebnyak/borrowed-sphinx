@@ -1,5 +1,5 @@
 image::https://badgen.net/badge/examples/4/blue
-image::https://badgen.net/badge/example/mimimal/green[https://gitlab.com/epogrebnyak/sphinx-minimal/]
+
 
 # Source folders and conf.py examples for Sphinx documentation
 
@@ -27,10 +27,10 @@ image::https://badgen.net/badge/example/mimimal/green[https://gitlab.com/epogreb
 
 |===  
 
-## Minimal example
+## https://gitlab.com/epogrebnyak/sphinx-minimal/[Minimal example]
 
 .conf.py
-| [source,python]
+[source,python]
 ----
 require 'sinatra'
 
@@ -50,6 +50,6 @@ This is documentation.
 ----
 
 
-## Credit 
+## Photo credit 
 
-Sphinx photo by [Max Simonov via Unsplash](https://unsplash.com/photos/fU4YA9w5taw)
+Sphinx cat photo by https://unsplash.com/photos/fU4YA9w5taw[Max Simonov, via Unsplash]
