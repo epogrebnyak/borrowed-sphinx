@@ -11,6 +11,7 @@
 ```
 pip install sphinx sphinx_rtd_theme
 sphinx-build docs site
+start site/index.html
 ```
 
 **docs/conf.py** (configuration)
