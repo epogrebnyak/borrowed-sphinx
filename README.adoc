@@ -1,4 +1,6 @@
-# Source folders and conf.py examples for Sphinx documentation
+# Examples for Sphinx documentation
+
+## Source folders and conf.py 
 
 // image::https://badgen.net/badge/examples/4/blue[]
 
