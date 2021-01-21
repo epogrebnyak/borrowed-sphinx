@@ -1,10 +1,10 @@
-image::https://badgen.net/badge/examples/4/blue
-
-
 # Source folders and conf.py examples for Sphinx documentation
 
-[cols="^,<,>", options="header"]
+image::https://badgen.net/badge/examples/4/blue[]
+
+[cols="<,^,^", options="header"]
 |===
+
 | Project 
 | docs folder 
 | conf.py
@@ -32,11 +32,12 @@ image::https://badgen.net/badge/examples/4/blue
 .conf.py
 [source,python]
 ----
-require 'sinatra'
+project = "Seemingly Simple Project"
+author = "I.M. Coder"
+copyright = f"2021, {author}"
+extensions = ["sphinx_rtd_theme"]
+html_theme = "sphinx_rtd_theme"
 
-get '/hi' do
-  "Hello World!"
-end
 ----
 
 .index.rst
