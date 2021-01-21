@@ -2,11 +2,11 @@
 
 - [Minimal example](#minimal) 
 - [Source and conf.py examples by project](#examples)
-
+- [Read more](#more)
 
 <a id="minimal">
   
-## [Minimal Sphinx example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
+## [Dry minimum Sphinx example](https://gitlab.com/epogrebnyak/sphinx-minimal/)
 
 **docs/conf.py** (configuration)
 
@@ -34,8 +34,6 @@ pip install sphinx sphinx_rtd_theme
 sphinx-build docs site
 start site/index.html
 ```
-
-
 
 <a id="examples">
   
@@ -73,6 +71,11 @@ start site/index.html
 </tbody>
 </table>
 
+<a id="examples">
+
+## Read more
+
+- [minimalsphinx](https://github.com/melissawm/minimalsphinx) by Melissa Weber Mendonça
 
 ## Photo credit
 
