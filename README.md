@@ -129,3 +129,8 @@ Sphinx cat photos:
 
 - [Max Simonov, via Unsplash](https://unsplash.com/photos/fU4YA9w5taw)
 - [Simona Melegová, via Unsplash](https://unsplash.com/photos/wIZVx0dz3Ok)
+
+## Remaining questions
+
+- `sphinx-build -M latexpdf examples/pydata docs` - what is M?
+- `sphinx-quickstart`, `sphinx-build`, `sphinx-apidoc`, `sphinx-autogen`
