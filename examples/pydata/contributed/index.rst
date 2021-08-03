@@ -5,4 +5,3 @@ Contributed packages
 
    music
    wallpaper
-   

@@ -1,15 +1,13 @@
-Wallpaper
-=========
+Wallpaper =========
 
-This is a contributed collection. 
+This is a contributed collection.
 
-Exhibit A
----------
+Exhibit A ---------
+
 
 - No explicit guarantees attached
 
 
-Exhibit B
----------
+Exhibit B ---------
 
-- Opens source contribution 
+- Opens source contribution

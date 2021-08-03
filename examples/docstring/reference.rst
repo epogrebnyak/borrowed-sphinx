@@ -1,10 +1,8 @@
-API Reference
-=============
+API Reference =============
 
 There is usually a section in docs that documents the code API.
 
-giraffe module
---------------
+giraffe module --------------
 
 .. automodule:: giraffe
     :members:

@@ -9,5 +9,5 @@ To build:
 
 ```console
 sphinx-build .  site
-start site/index.html  
-``` 
+start site/index.html
+```

@@ -1,7 +1,8 @@
 Main page
 =========
 
-This is main documentation page. We are also attaching two documents in `toctree` directive.
+This is main documentation page. We are also attaching two documents in
+`toctree` directive.
 
 
 .. toctree::
